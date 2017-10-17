@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/bitrix/templates/fashify/styles.css" => "150825304037034",), 'CUR_SEL_CNT' => '533', 'CUR_IE_CNT' => '0'); ?>

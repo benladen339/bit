@@ -1,0 +1,53 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Home", 
+		"/home/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"About", 
+		"/about/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Design", 
+		"/design/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Fashion", 
+		"/fashion/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Photos", 
+		"/photos/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Videos", 
+		"/videos/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Contact", 
+		"/contact/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
