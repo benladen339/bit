@@ -2,7 +2,7 @@
 $aMenuLinks = Array(
 	Array(
 		"Home", 
-		"/home/", 
+		"/", 
 		Array(), 
 		Array(), 
 		"" 
